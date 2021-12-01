@@ -50,6 +50,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: 'Treat yourself with healthy, guilt free, and extremely tasty desserts!'
   - elementId: ''
     colors: colors-f
     title: Where did everyone go?
