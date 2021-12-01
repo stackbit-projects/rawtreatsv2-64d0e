@@ -75,9 +75,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Raw Treats
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          Desserts without baking and cooking
         featuredImage:
           url: /images/IMG_7979.jpg
         styles:
