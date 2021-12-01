@@ -78,7 +78,8 @@ sections:
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
-        featuredImage: {}
+        featuredImage:
+          url: /images/IMG_7978.jpg
         styles:
           title:
             textAlign: center
