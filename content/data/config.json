@@ -45,7 +45,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Sign up",
+                "label": "Order Online",
                 "url": "/",
                 "altText": "Sign up",
                 "style": "primary"
