@@ -74,7 +74,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Raw Treats
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
