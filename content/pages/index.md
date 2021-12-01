@@ -35,7 +35,7 @@ sections:
         elementId: hero-main-button
     media:
       type: ImageBlock
-      url: /images/IMG_7978.jpg
+      url: /images/IMG_7980.jpg
       altText: Image alt text
       caption: Image caption
     styles:
