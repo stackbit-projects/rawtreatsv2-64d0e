@@ -142,7 +142,7 @@ sections:
           actions:
             justifyContent: flex-start
       - elementId: ''
-        title: Item Title
+        title: Handmade chocolate
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
