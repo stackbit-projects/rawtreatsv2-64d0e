@@ -7,9 +7,26 @@ sections:
     colors: colors-a
     title: Healthy Desserts
     text: >
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+      It's hard to believe, but they exist!
+
+
+      Our desserts made only with natural ingredients that nourish your body,
+      satisfy your taste buds, and make you feel amazing!
+
+
+      *   Organic
+
+
+      *   Gluten free
+
+
+      *   Dairy free
+
+
+      *   Refined sugar free
+
+
+      *   Soy free
     actions:
       - type: Button
         label: Sign up
