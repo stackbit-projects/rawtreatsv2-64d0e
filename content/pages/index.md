@@ -79,7 +79,7 @@ sections:
           Learn how top tech companies have learned working remote using our
           product.
         featuredImage:
-          url: /images/IMG_7978.jpg
+          url: /images/IMG_7979.jpg
         styles:
           title:
             textAlign: center
