@@ -115,7 +115,7 @@ sections:
           text:
             textAlign: center
       - elementId: ''
-        title: Item Title
+        title: Macaroons
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
