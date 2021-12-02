@@ -70,7 +70,7 @@ sections:
     subtitle: 'Treat yourself with healthy, guilt free, and extremely tasty desserts!'
   - colors: colors-f
     elementId: ''
-    title: Key value propositions
+    title: Desserts
     subtitle: ''
     items:
       - type: FeaturedItem
